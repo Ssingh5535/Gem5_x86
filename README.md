@@ -68,7 +68,7 @@ repo-root/
 
 > **Image placeholders:**
 >
-> * *System info screenshot* → `![Host Info](Images/00_host_info.png)`
+> * *System info screenshot* → ![Host Info](Images/Hardware.png)
 
 ---
 
@@ -103,9 +103,7 @@ scons -j"$(nproc)" --config=force build/X86/gem5.opt
 
 Expected console output includes the hello message and a finished simulation. Stats appear in `m5out/stats.txt`.
 
-> **Image placeholders:**
->
-> * *Smoke test run* → `![Smoke Test Console](Images/04_smoke_test.png)`
+> * *Smoke test run* → ![Smoke Test Console](Images/SmokeTest.png)
 
 ---
 
