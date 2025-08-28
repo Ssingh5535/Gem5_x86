@@ -199,11 +199,6 @@ Run it with an explicit results directory:
 ./build/X86/gem5.opt my/01_se_hello_stdlib.py --outdir=out/timing_l1l2
 ```
 
-> **Image placeholders:**
->
-> * *Running stdlib hello* → `![Stdlib Hello Run](Images/05_stdlib_hello_run.png)`
-> * *m5out/out dir listing* → `![Outdir Contents](Images/06_outdir_listing.png)`
-
 ---
 
 ## Mini-Experiments
