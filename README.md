@@ -18,16 +18,7 @@
    * [4.5 Build gem5 (X86)](#45-build-gem5-x86)
    * [4.6 Smoke Test (modern tutorial)](#46-smoke-test-modern-tutorial)
    * [4.7 Standard Library “Hello” Script](#47-standard-library-hello-script)
-5. [Mini-Experiments](#mini-experiments)
 
-   * [5.1 CPU Model Sweep](#51-cpu-model-sweep)
-   * [5.2 L1 Cache Size Sweep](#52-l1-cache-size-sweep)
-   * [5.3 Memory Latency Stress (DDR variants)](#53-memory-latency-stress-ddr-variants)
-   * [5.4 Workload Character: Compute vs Memory Bound](#54-workload-character-compute-vs-memory-bound)
-6. [Collecting & Comparing Stats](#collecting--comparing-stats)
-7. [Repository Layout](#repository-layout)
-8. [Troubleshooting](#troubleshooting)
-9. [What to Screenshot (Portfolio Proof)](#what-to-screenshot-portfolio-proof)
 
 
 ---
